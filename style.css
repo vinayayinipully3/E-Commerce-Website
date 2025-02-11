@@ -1,0 +1,245 @@
+
+*{
+    margin:0;
+    padding:0;
+}
+
+.nav{
+height:74px;
+width:100%;
+background-color:white;
+display: flex;
+align-items: center;
+border-bottom:1px solid grey;
+}
+
+.logo{
+    color:aqua;
+    padding:20px;
+    margin-left:100px;
+}
+
+.search-bar{
+     height:20px;
+     width:55%;
+}
+
+
+input {
+    margin-left: 98px;
+    height: 1.5rem;
+    width: 59rem;
+    border-radius: 7px;
+}
+
+.search-icon{
+     height: 17px;
+     width:22px;
+     color:black;
+     display:flex;
+     justify-content: center;
+     align-items: center;
+     position: absolute;
+     left: 75rem;
+     top:2rem;
+}
+
+.login{
+    position:absolute;
+    left:81rem;
+    top: 26px;
+    height:32px;
+    width:50px;
+    font-size: 2.2vmin;
+    border:none;
+    background-color:white;
+}
+
+.signin{
+    position:absolute;
+    left:86rem;
+    top: 26px;
+    height:32px;
+    width:82px;
+    font-size: 2.2vmin;
+    border:none;
+    background-color:white;
+}
+
+.Home{
+    position:absolute;
+    left:93rem;
+    top: 26px;
+    height:32px;
+    width:51px;
+    border:none;
+    font-size: 2.2vmin;
+    background-color:white;
+}
+
+.cart{
+    
+    color:black;
+    position: absolute;
+    left:99rem;
+    top:20px;
+    height:40px;
+    width:60px;
+
+}
+
+.login:hover{
+    border-bottom:2px solid red;
+}
+
+.signin:hover{
+    border-bottom:2px solid red;
+}
+
+.Home:hover{
+    border-bottom:2px solid red;
+}
+
+.left-container{
+    padding:15px;
+    border-right:1px solid grey;
+    height:52rem;
+    width:15%;
+}
+
+
+.w{
+    background-color: white;
+    border: none;
+    position:absolute;
+    bottom: 77vmin;
+    left:3rem;
+    height:37px;
+    width:184px;
+    font-size: 19px;
+
+    
+}
+
+
+.m{
+    background-color:white;
+    border: none;
+    position:absolute;
+    bottom: 51vmin;
+    left:3rem;
+    height:65px;
+    width:184px;
+    font-size: 19px;
+}
+
+.e{
+ background-color:white;
+    border: none;
+    position:absolute;
+    bottom: 60vmin;
+    left:3rem;
+    height:65px;
+    width:184px;
+    font-size: 19px;
+}
+
+.h{
+    background-color: white;
+    border: none;
+    position:absolute;
+    bottom: 29vmin;
+    left:3rem;
+    height:65px;
+    width:184px;
+    font-size: 19px;
+}
+
+.men{
+    background-color: white;
+    border: none;
+    position:absolute;
+    bottom: 67vmin;
+    left:3rem;
+    height:65px;
+    width:184px;
+    font-size: 19px;
+}
+
+.s{
+    background-color: white;
+    border: none;
+    position:absolute;
+    bottom: 20vmin;
+    left:3rem;
+    height:65px;
+    width:184px;
+    font-size: 19px;
+
+}
+
+.t{
+    background-color: white;
+    border: none;
+    position:absolute;
+    bottom: 36vmin;
+    left:3rem;
+    height:65px;
+    width:184px;
+    font-size: 19px;
+
+}
+
+.g{
+    background-color: white;
+    border: none;
+    position:absolute;
+    bottom: 44vmin;
+    left:3rem;
+    height:65px;
+    width:184px;
+    font-size: 19px;
+
+}
+
+.g:hover{
+    border-bottom:2px solid red;
+}
+
+.s:hover{
+    border-bottom:2px solid red;
+}
+
+.t:hover{
+    border-bottom:2px solid red;
+}
+
+.h:hover{
+    border-bottom:2px solid red;
+}
+
+.w:hover{
+    border-bottom:2px solid red;
+}
+
+.m:hover{
+    border-bottom:2px solid red;
+}
+
+.e:hover{
+    border-bottom:2px solid red;
+}
+
+.men:hover{
+    border-bottom:2px solid red;
+}
+
+
+
+
+
+
+
+
+
+
